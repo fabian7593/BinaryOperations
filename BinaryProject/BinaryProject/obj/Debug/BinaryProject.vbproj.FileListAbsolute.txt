@@ -1,0 +1,10 @@
+C:\Users\Fabian\Desktop\BinaryProject\BinaryProject\BinaryProject\bin\Debug\BinaryProject.exe.config
+C:\Users\Fabian\Desktop\BinaryProject\BinaryProject\BinaryProject\bin\Debug\BinaryProject.exe
+C:\Users\Fabian\Desktop\BinaryProject\BinaryProject\BinaryProject\bin\Debug\BinaryProject.pdb
+C:\Users\Fabian\Desktop\BinaryProject\BinaryProject\BinaryProject\bin\Debug\BinaryProject.xml
+C:\Users\Fabian\Desktop\BinaryProject\BinaryProject\BinaryProject\obj\Debug\BinaryProject.Resources.resources
+C:\Users\Fabian\Desktop\BinaryProject\BinaryProject\BinaryProject\obj\Debug\BinaryProject.vbproj.GenerateResource.Cache
+C:\Users\Fabian\Desktop\BinaryProject\BinaryProject\BinaryProject\obj\Debug\BinaryProject.exe
+C:\Users\Fabian\Desktop\BinaryProject\BinaryProject\BinaryProject\obj\Debug\BinaryProject.xml
+C:\Users\Fabian\Desktop\BinaryProject\BinaryProject\BinaryProject\obj\Debug\BinaryProject.pdb
+C:\Users\Fabian\Desktop\BinaryProject\BinaryProject\BinaryProject\obj\Debug\BinaryProject.vbprojResolveAssemblyReference.cache
